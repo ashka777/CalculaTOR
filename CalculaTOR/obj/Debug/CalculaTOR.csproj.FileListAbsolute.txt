@@ -1,0 +1,23 @@
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.exe.config
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.pdb
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csprojAssemblyReference.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Form1.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Properties.Resources.resources
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csproj.GenerateResource.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csproj.CoreCompileInputs.cache
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.exe
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.pdb
+C:\Users\motomoto\Documents\Visual Studio 2017\Projects\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Setting.resources
+D:\Программирование\С#\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.exe.config
+D:\Программирование\С#\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.exe
+D:\Программирование\С#\CalculaTOR\CalculaTOR\bin\Debug\CalculaTOR.pdb
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Form1.resources
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Properties.Resources.resources
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.Setting.resources
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csproj.GenerateResource.cache
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csproj.CoreCompileInputs.cache
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.exe
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.pdb
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.RegKey.resources
+D:\Программирование\С#\CalculaTOR\CalculaTOR\obj\Debug\CalculaTOR.csprojAssemblyReference.cache
